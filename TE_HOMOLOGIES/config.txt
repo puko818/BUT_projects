@@ -1,0 +1,5 @@
+Mleaves:/storage/ostrava1/home/ivogel/TE_HOMOLOGIES/Mleaves.obj:/storage/brno2/home/ivogel/small_rna/clustering/representatives/1_male-leaves_x-smallrna_ATGTCA_L007_R1_001.fa:7
+Fleaves:/storage/ostrava1/home/ivogel/TE_HOMOLOGIES/Fleaves.obj:/storage/brno2/home/ivogel/small_rna/clustering/representatives/2_female-leaves_x-smallrna_CCGTCC_L007_R1_001.fa:5
+UPistils:/storage/ostrava1/home/ivogel/TE_HOMOLOGIES/Upistils.obj:/storage/brno2/home/ivogel/small_rna/clustering/representatives/3_unfertilized-pistils_x-smallrna_GTAGAG_L007_R1_001.fa:7
+Fpistils:/storage/ostrava1/home/ivogel/TE_HOMOLOGIES/Fpistils.obj:/storage/brno2/home/ivogel/small_rna/clustering/representatives/4_fertilized-pistils_x-smallrna_GTCCGC_L007_R1_001.fa:7
+Pollen:/storage/ostrava1/home/ivogel/TE_HOMOLOGIES/Pollen.obj:/storage/brno2/home/ivogel/small_rna/clustering/representatives/5_pollen_x-smallrna_GTGAAA_L007_R1_001.fa:5

@@ -1,0 +1,9 @@
+Hierarchical clustering implementation in C++ of microarray data from Lymphoma/Leukemia Molecular Profiling Project: 
+--with several distance function implementation and linkage variants
+--the core implementation is in module "algorithm" and "clustering"
+--the methods are commented in the header files
+--the GUI was built using wxWidgets library, the output tree is in XML
+--an optimized triangular matrix implementation was used (Boost library)
+
+
+

@@ -1,0 +1,6 @@
+Phylogenetic analysis of grouped taxa:
+--the library involves a modified distance method for grouped taxonomical units (there is preliminary knowledge that some nodes should be clustered together)
+--unfortunately due some technical issues I lost access to the current version of the library
+--therefore some classes implementations are missing and in some modules, more or less, only the scaffold is presented
+--the method is described in the paper [1] in my CV.
+

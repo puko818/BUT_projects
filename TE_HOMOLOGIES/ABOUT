@@ -1,0 +1,3 @@
+Library for searching potential relationship between TE and the non-coding part of the genome via small non-coding RNAs
+--the potential sRNA->TE->sRNA->non-repetitive transcriptome is obtained from NGS data alignments
+--most of the datastructures are serialized or indexed for future fast access (prevent long parsing time of the alignment files)
