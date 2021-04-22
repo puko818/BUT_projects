@@ -1,2 +1,2 @@
-# Showcase-CPH-Ivan Vogel
-Welcome! This is a brief overview of my coding experience related to biological topics.
+# BUT projects
+Samples from university assignments during bachelor and master studies (Brno University of Technology).
